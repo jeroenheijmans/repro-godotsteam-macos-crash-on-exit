@@ -15,4 +15,6 @@ script = ExtResource("1_8ndr7")
 layout_mode = 0
 offset_right = 8.0
 offset_bottom = 8.0
-text = "Simple Test Button"
+text = "Cause test exception"
+
+[connection signal="button_down" from="Button" to="." method="_on_button_button_down"]
