@@ -2,6 +2,12 @@
 
 This repository is a minimal reproducible scenario for a possible bug with GodotSteam.
 
+## ⚠️ Notice about updates
+
+Note that this repository is provided "as-is" and will most likely not receive any (security) updates.
+
+## Repro
+
 Steps used to create this repro:
 
 1. Create a new Godot 4 project on an intel-based Macbook Pro
